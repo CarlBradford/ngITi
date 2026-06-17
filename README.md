@@ -257,7 +257,7 @@ ngITi exemplifies technological innovation in healthcare infrastructure, alignin
 
 - **SDG 17: Partnership for the Goal**
 <p align="justify">
-Within the context of Sustainable Development Goal 17 (SDG 17) - Partnerships for the Goals, the implementation of Ngiti, a dental records and appointment system, reflects a collaborative endeavor between healthcare providers and technology developers, showcasing a cooperative approach to sustainable development. This collaboration, aligned with SDG 17, involves sharing best practices in dental management systems, contributing to collective endeavors aimed at achieving common health-related goals. Through these strategic partnerships, Ngiti fosters efficiency and facilitates knowledge exchange within the healthcare sector, thereby exemplifying the transformative potential of collaborative initiatives in advancing global sustainable development objectives.
+Within the context of Sustainable Development Goal 17 (SDG 17) - Partnerships for the Goals, the implementation of Ngiti, a dental records and appointment system, reflects a collaborative endeavor between healthcare providers and technology developers, showcasing a cooperative approach to sustainable development. This collaboration involves sharing best practices in dental management systems, contributing to collective endeavors aimed at achieving common health-related goals. Through these strategic partnerships, Ngiti fosters efficiency and facilitates knowledge exchange within the healthcare sector, thereby exemplifying the transformative potential of collaborative initiatives in advancing global sustainable development objectives.
 </p>
 
 #

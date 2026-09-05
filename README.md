@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180167191476322485/Untitled_design_41.png?ex=657c6f58&is=6569fa58&hm=4faffcdadf9afa1f8438292b753cb31bb89c09595634b547c1114e8ff74478fd&" width="550" height="350" />
-</p>
-  
-<p align="center">
   <strong>ngITi: A Dental Records and Appointment System</strong>
 </p>
 
